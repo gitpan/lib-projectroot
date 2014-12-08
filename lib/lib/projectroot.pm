@@ -4,7 +4,7 @@ use warnings;
 use 5.010;
 
 # ABSTRACT: easier loading of a project's local libs
-our $VERSION = "1.000";
+our $VERSION = "1.001";
 
 use FindBin qw();
 use Carp qw(carp);
@@ -83,7 +83,7 @@ lib::projectroot - easier loading of a project's local libs
 
 =head1 VERSION
 
-version 1.000
+version 1.001
 
 =head1 SYNOPSIS
 
@@ -192,7 +192,7 @@ Some ideas for future releases:
 
 Thanks to C<eserte>, C<Smylers> & Ca<abraxxa> for providing feedback
 at L<http://prepan.org/module/nY4oajhgzJN|prepan.org>. Meta-thanks to
-<http://twitter.com/kentaro|kentaro> for running prepan, a very handy
+L<http://twitter.com/kentaro|kentaro> for running prepan, a very handy
 service!
 
 Thanks to C<koki>, C<farhad> and C<Jozef> for providing face-to-face

@@ -27,4 +27,4 @@ requires:
   warnings: '0'
 resources:
   repository: git://github.com/domm/lib-projectroot.git
-version: '1.000'
+version: '1.001'
